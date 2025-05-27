@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.Clear();
         Print_Videos(1);
         Print_Videos(2);
         Print_Videos(3);
